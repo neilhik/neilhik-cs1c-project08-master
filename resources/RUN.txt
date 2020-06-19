@@ -1,0 +1,524 @@
+//Test 1
+Time:845717 for element 0
+Time:824404554 for element 500000
+Time:1505697207 for element 1000000
+Time:616485154 for element 1500000
+Time:652992588 for element 2000000
+Time:803920095 for element 2500000
+Time:1024697850 for element 3000000
+Time:1192673536 for element 3500000
+Time:1496631393 for element 4000000
+Time:1642415562 for element 4500000
+Time:1909440215 for element 5000000
+Time:2094201854 for element 5500000
+Time:2280204777 for element 6000000
+Time:2503788181 for element 6500000
+Time:2656358843 for element 7000000
+Time:2909527023 for element 7500000
+Time:3169468994 for element 8000000
+Time:3416218841 for element 8500000
+Time:3716195447 for element 9000000
+Time:3937150463 for element 9500000
+Total number of songs read 59600
+Time:160065341 for recursion limit 2
+Time:123341204 for recursion limit 4
+Time:101531793 for recursion limit 6
+Time:100849970 for recursion limit 8
+Time:62194700 for recursion limit 10
+Time:42870330 for recursion limit 12
+Time:42121193 for recursion limit 14
+Time:42380916 for recursion limit 16
+Time:49475314 for recursion limit 18
+Time:56091381 for recursion limit 20
+Time:43588445 for recursion limit 22
+Time:40575519 for recursion limit 24
+Time:43337243 for recursion limit 26
+Time:52744231 for recursion limit 28
+Time:54006767 for recursion limit 30
+Time:42676205 for recursion limit 32
+Time:40412711 for recursion limit 34
+Time:40459267 for recursion limit 36
+Time:51427911 for recursion limit 38
+Time:45685769 for recursion limit 40
+Time:46409807 for recursion limit 42
+Time:40800652 for recursion limit 44
+Time:43382741 for recursion limit 46
+Time:55733734 for recursion limit 48
+Time:54578341 for recursion limit 50
+Time:56043744 for recursion limit 52
+Time:45867071 for recursion limit 54
+Time:40012987 for recursion limit 56
+Time:64712956 for recursion limit 58
+Time:50572230 for recursion limit 60
+Time:41282940 for recursion limit 62
+Time:39454254 for recursion limit 64
+Time:40009157 for recursion limit 66
+Time:40724003 for recursion limit 68
+Time:49681329 for recursion limit 70
+Time:52342006 for recursion limit 72
+Time:43234444 for recursion limit 74
+Time:39032503 for recursion limit 76
+Time:46979486 for recursion limit 78
+Time:45620002 for recursion limit 80
+Time:45081436 for recursion limit 82
+Time:38089216 for recursion limit 84
+Time:38222886 for recursion limit 86
+Time:38428167 for recursion limit 88
+Time:48446310 for recursion limit 90
+Time:47255842 for recursion limit 92
+Time:40087940 for recursion limit 94
+Time:41283090 for recursion limit 96
+Time:43373671 for recursion limit 98
+Time:48294018 for recursion limit 100
+Time:43512428 for recursion limit 102
+Time:37470758 for recursion limit 104
+Time:36889298 for recursion limit 106
+Time:37979415 for recursion limit 108
+Time:46102332 for recursion limit 110
+Time:54994358 for recursion limit 112
+Time:40187472 for recursion limit 114
+Time:40178470 for recursion limit 116
+Time:54721019 for recursion limit 118
+Time:54581147 for recursion limit 120
+Time:40142838 for recursion limit 122
+Time:44790780 for recursion limit 124
+Time:42372031 for recursion limit 126
+Time:43760803 for recursion limit 128
+Time:47381240 for recursion limit 130
+Time:43276780 for recursion limit 132
+Time:36457731 for recursion limit 134
+Time:36520885 for recursion limit 136
+Time:35812821 for recursion limit 138
+Time:47496953 for recursion limit 140
+Time:56068560 for recursion limit 142
+Time:40334319 for recursion limit 144
+Time:37611451 for recursion limit 146
+Time:36922141 for recursion limit 148
+Time:40283178 for recursion limit 150
+Time:45829004 for recursion limit 152
+Time:47696059 for recursion limit 154
+Time:37907649 for recursion limit 156
+Time:35875966 for recursion limit 158
+Time:35913098 for recursion limit 160
+Time:50460151 for recursion limit 162
+Time:50484569 for recursion limit 164
+Time:44015018 for recursion limit 166
+Time:36355153 for recursion limit 168
+Time:36211696 for recursion limit 170
+Time:35838817 for recursion limit 172
+Time:49971479 for recursion limit 174
+Time:47511428 for recursion limit 176
+Time:37593519 for recursion limit 178
+Time:35401002 for recursion limit 180
+Time:40058383 for recursion limit 182
+Time:40558912 for recursion limit 184
+Time:58317023 for recursion limit 186
+Time:65180185 for recursion limit 188
+Time:45494733 for recursion limit 190
+Time:39071263 for recursion limit 192
+Time:43771428 for recursion limit 194
+Time:53077315 for recursion limit 196
+Time:46470818 for recursion limit 198
+Time:42735515 for recursion limit 200
+Time:35901609 for recursion limit 202
+Time:36574792 for recursion limit 204
+Time:35946004 for recursion limit 206
+Time:45785423 for recursion limit 208
+Time:51218757 for recursion limit 210
+Time:50971645 for recursion limit 212
+Time:42081021 for recursion limit 214
+Time:36306653 for recursion limit 216
+Time:40323459 for recursion limit 218
+Time:41218729 for recursion limit 220
+Time:42110683 for recursion limit 222
+Time:36322417 for recursion limit 224
+Time:35302851 for recursion limit 226
+Time:35484094 for recursion limit 228
+Time:42264097 for recursion limit 230
+Time:48269691 for recursion limit 232
+Time:46770247 for recursion limit 234
+Time:40440964 for recursion limit 236
+Time:35094181 for recursion limit 238
+Time:35521589 for recursion limit 240
+Time:41382793 for recursion limit 242
+Time:51076769 for recursion limit 244
+Time:35875403 for recursion limit 246
+Time:35205717 for recursion limit 248
+Time:34446119 for recursion limit 250
+Time:44949323 for recursion limit 252
+Time:62351994 for recursion limit 254
+Time:38322484 for recursion limit 256
+Time:45676357 for recursion limit 258
+Time:46167862 for recursion limit 260
+Time:49395223 for recursion limit 262
+Time:47098980 for recursion limit 264
+Time:47392344 for recursion limit 266
+Time:40838563 for recursion limit 268
+Time:35215640 for recursion limit 270
+Time:35735192 for recursion limit 272
+Time:49531831 for recursion limit 274
+Time:42556735 for recursion limit 276
+Time:35639766 for recursion limit 278
+Time:35125056 for recursion limit 280
+Time:34650929 for recursion limit 282
+Time:48074003 for recursion limit 284
+Time:44792343 for recursion limit 286
+Time:40098887 for recursion limit 288
+Time:35049341 for recursion limit 290
+Time:34511769 for recursion limit 292
+Time:34740177 for recursion limit 294
+Time:41343995 for recursion limit 296
+Time:46109980 for recursion limit 298
+Time:48031235 for recursion limit 300
+
+Process finished with exit code 0
+
+//Test 2
+Time:655150 for element 0
+Time:563281998 for element 500000
+Time:1376111867 for element 1000000
+Time:672797287 for element 1500000
+Time:786920982 for element 2000000
+Time:883611312 for element 2500000
+Time:995613110 for element 3000000
+Time:1206037108 for element 3500000
+Time:1499669728 for element 4000000
+Time:1605122386 for element 4500000
+Time:1820055960 for element 5000000
+Time:2103906657 for element 5500000
+Time:2219585091 for element 6000000
+Time:2529547771 for element 6500000
+Time:2728521957 for element 7000000
+Time:3003627512 for element 7500000
+Time:3301594019 for element 8000000
+Time:3474401565 for element 8500000
+Time:3704687290 for element 9000000
+Time:4019862866 for element 9500000
+Total number of songs read 59600
+Time:137321719 for recursion limit 2
+Time:103606315 for recursion limit 4
+Time:96966562 for recursion limit 6
+Time:99205158 for recursion limit 8
+Time:98574581 for recursion limit 10
+Time:78791524 for recursion limit 12
+Time:69148574 for recursion limit 14
+Time:49975042 for recursion limit 16
+Time:51789573 for recursion limit 18
+Time:49940821 for recursion limit 20
+Time:47776892 for recursion limit 22
+Time:43707954 for recursion limit 24
+Time:42933109 for recursion limit 26
+Time:51118682 for recursion limit 28
+Time:53669370 for recursion limit 30
+Time:53167900 for recursion limit 32
+Time:44854750 for recursion limit 34
+Time:51672619 for recursion limit 36
+Time:57921519 for recursion limit 38
+Time:49804326 for recursion limit 40
+Time:54251857 for recursion limit 42
+Time:51990774 for recursion limit 44
+Time:48113499 for recursion limit 46
+Time:48365812 for recursion limit 48
+Time:40904756 for recursion limit 50
+Time:41399001 for recursion limit 52
+Time:46379080 for recursion limit 54
+Time:48415085 for recursion limit 56
+Time:46655207 for recursion limit 58
+Time:41405885 for recursion limit 60
+Time:42508708 for recursion limit 62
+Time:50627040 for recursion limit 64
+Time:50192033 for recursion limit 66
+Time:48875015 for recursion limit 68
+Time:41380197 for recursion limit 70
+Time:40709073 for recursion limit 72
+Time:47952565 for recursion limit 74
+Time:50676422 for recursion limit 76
+Time:45520419 for recursion limit 78
+Time:40497508 for recursion limit 80
+Time:40874859 for recursion limit 82
+Time:50434182 for recursion limit 84
+Time:50189015 for recursion limit 86
+Time:45149693 for recursion limit 88
+Time:40261045 for recursion limit 90
+Time:43547954 for recursion limit 92
+Time:48903279 for recursion limit 94
+Time:53839307 for recursion limit 96
+Time:48068016 for recursion limit 98
+Time:48621971 for recursion limit 100
+Time:47484441 for recursion limit 102
+Time:51726443 for recursion limit 104
+Time:63158328 for recursion limit 106
+Time:45820156 for recursion limit 108
+Time:39167650 for recursion limit 110
+Time:42141781 for recursion limit 112
+Time:47823735 for recursion limit 114
+Time:47969597 for recursion limit 116
+Time:43240246 for recursion limit 118
+Time:39185758 for recursion limit 120
+Time:40524331 for recursion limit 122
+Time:43234222 for recursion limit 124
+Time:49019887 for recursion limit 126
+Time:48892265 for recursion limit 128
+Time:39623513 for recursion limit 130
+Time:38345326 for recursion limit 132
+Time:44531795 for recursion limit 134
+Time:47394843 for recursion limit 136
+Time:46417427 for recursion limit 138
+Time:40250787 for recursion limit 140
+Time:39520764 for recursion limit 142
+Time:42316117 for recursion limit 144
+Time:46222294 for recursion limit 146
+Time:47214318 for recursion limit 148
+Time:40799278 for recursion limit 150
+Time:40350012 for recursion limit 152
+Time:40856958 for recursion limit 154
+Time:52691298 for recursion limit 156
+Time:44834846 for recursion limit 158
+Time:38282965 for recursion limit 160
+Time:55542779 for recursion limit 162
+Time:50069100 for recursion limit 164
+Time:60804353 for recursion limit 166
+Time:54502921 for recursion limit 168
+Time:42742993 for recursion limit 170
+Time:53233405 for recursion limit 172
+Time:50665988 for recursion limit 174
+Time:48504975 for recursion limit 176
+Time:42648551 for recursion limit 178
+Time:38262024 for recursion limit 180
+Time:46453659 for recursion limit 182
+Time:46712094 for recursion limit 184
+Time:45839215 for recursion limit 186
+Time:38646407 for recursion limit 188
+Time:38734619 for recursion limit 190
+Time:43236419 for recursion limit 192
+Time:54116185 for recursion limit 194
+Time:49705438 for recursion limit 196
+Time:40680441 for recursion limit 198
+Time:39477911 for recursion limit 200
+Time:46319942 for recursion limit 202
+Time:47601008 for recursion limit 204
+Time:45269006 for recursion limit 206
+Time:38876423 for recursion limit 208
+Time:38388845 for recursion limit 210
+Time:40092698 for recursion limit 212
+Time:52640422 for recursion limit 214
+Time:49336857 for recursion limit 216
+Time:38726053 for recursion limit 218
+Time:38299042 for recursion limit 220
+Time:46357031 for recursion limit 222
+Time:46307139 for recursion limit 224
+Time:48560826 for recursion limit 226
+Time:43428288 for recursion limit 228
+Time:40860386 for recursion limit 230
+Time:53341901 for recursion limit 232
+Time:53859704 for recursion limit 234
+Time:44159104 for recursion limit 236
+Time:50383554 for recursion limit 238
+Time:43362288 for recursion limit 240
+Time:43943086 for recursion limit 242
+Time:47757804 for recursion limit 244
+Time:42030284 for recursion limit 246
+Time:36805739 for recursion limit 248
+Time:42054312 for recursion limit 250
+Time:38523347 for recursion limit 252
+Time:59820431 for recursion limit 254
+Time:46870570 for recursion limit 256
+Time:40753281 for recursion limit 258
+Time:38826743 for recursion limit 260
+Time:44830942 for recursion limit 262
+Time:42981743 for recursion limit 264
+Time:43228849 for recursion limit 266
+Time:38607429 for recursion limit 268
+Time:39138063 for recursion limit 270
+Time:38454335 for recursion limit 272
+Time:43721154 for recursion limit 274
+Time:44328779 for recursion limit 276
+Time:40500886 for recursion limit 278
+Time:37391342 for recursion limit 280
+Time:38977862 for recursion limit 282
+Time:45692321 for recursion limit 284
+Time:50049015 for recursion limit 286
+Time:39145977 for recursion limit 288
+Time:39040088 for recursion limit 290
+Time:44065229 for recursion limit 292
+Time:47461707 for recursion limit 294
+Time:50150367 for recursion limit 296
+Time:39891745 for recursion limit 298
+Time:46007797 for recursion limit 300
+
+Process finished with exit code 0
+
+//Test 3
+Time:619097 for element 0
+Time:377387952 for element 500000
+Time:647805406 for element 1000000
+Time:1360344297 for element 1500000
+Time:975924828 for element 2000000
+Time:812686424 for element 2500000
+Time:1044874154 for element 3000000
+Time:1203364735 for element 3500000
+Time:1480786775 for element 4000000
+Time:1694839916 for element 4500000
+Time:1923707918 for element 5000000
+Time:2110051577 for element 5500000
+Time:2413300939 for element 6000000
+Time:2632692525 for element 6500000
+Time:2857522213 for element 7000000
+Time:2936773515 for element 7500000
+Time:3660822749 for element 8000000
+Time:3562717875 for element 8500000
+Time:3803624268 for element 9000000
+Time:4064783779 for element 9500000
+Total number of songs read 59600
+Time:149409938 for recursion limit 2
+Time:97599134 for recursion limit 4
+Time:83113583 for recursion limit 6
+Time:83961780 for recursion limit 8
+Time:87718571 for recursion limit 10
+Time:76376794 for recursion limit 12
+Time:65333482 for recursion limit 14
+Time:47520494 for recursion limit 16
+Time:47097032 for recursion limit 18
+Time:47867082 for recursion limit 20
+Time:41841802 for recursion limit 22
+Time:43258907 for recursion limit 24
+Time:42724686 for recursion limit 26
+Time:45240355 for recursion limit 28
+Time:46236613 for recursion limit 30
+Time:47317016 for recursion limit 32
+Time:42306138 for recursion limit 34
+Time:40829814 for recursion limit 36
+Time:43435611 for recursion limit 38
+Time:47533442 for recursion limit 40
+Time:49668067 for recursion limit 42
+Time:42124518 for recursion limit 44
+Time:47204946 for recursion limit 46
+Time:52532986 for recursion limit 48
+Time:56040992 for recursion limit 50
+Time:47303362 for recursion limit 52
+Time:44903673 for recursion limit 54
+Time:43428660 for recursion limit 56
+Time:60525397 for recursion limit 58
+Time:48897846 for recursion limit 60
+Time:40722902 for recursion limit 62
+Time:41834511 for recursion limit 64
+Time:39625808 for recursion limit 66
+Time:47455734 for recursion limit 68
+Time:45537537 for recursion limit 70
+Time:48598637 for recursion limit 72
+Time:39655771 for recursion limit 74
+Time:40158570 for recursion limit 76
+Time:41772586 for recursion limit 78
+Time:45811035 for recursion limit 80
+Time:46592471 for recursion limit 82
+Time:40428869 for recursion limit 84
+Time:39818721 for recursion limit 86
+Time:41240525 for recursion limit 88
+Time:49006693 for recursion limit 90
+Time:48762669 for recursion limit 92
+Time:40898545 for recursion limit 94
+Time:39513758 for recursion limit 96
+Time:42286554 for recursion limit 98
+Time:46052822 for recursion limit 100
+Time:46674240 for recursion limit 102
+Time:39068201 for recursion limit 104
+Time:37980234 for recursion limit 106
+Time:38180352 for recursion limit 108
+Time:43404443 for recursion limit 110
+Time:44748456 for recursion limit 112
+Time:49981408 for recursion limit 114
+Time:41648557 for recursion limit 116
+Time:50704155 for recursion limit 118
+Time:50936522 for recursion limit 120
+Time:45154436 for recursion limit 122
+Time:41050290 for recursion limit 124
+Time:46538151 for recursion limit 126
+Time:48318869 for recursion limit 128
+Time:47280718 for recursion limit 130
+Time:44355568 for recursion limit 132
+Time:37271168 for recursion limit 134
+Time:40561646 for recursion limit 136
+Time:42537519 for recursion limit 138
+Time:46815227 for recursion limit 140
+Time:45216766 for recursion limit 142
+Time:37910644 for recursion limit 144
+Time:38491705 for recursion limit 146
+Time:38237012 for recursion limit 148
+Time:45032331 for recursion limit 150
+Time:46944656 for recursion limit 152
+Time:40702279 for recursion limit 154
+Time:37794448 for recursion limit 156
+Time:39547253 for recursion limit 158
+Time:46203549 for recursion limit 160
+Time:45920511 for recursion limit 162
+Time:37927326 for recursion limit 164
+Time:37488271 for recursion limit 166
+Time:37708973 for recursion limit 168
+Time:44249915 for recursion limit 170
+Time:44437908 for recursion limit 172
+Time:40315142 for recursion limit 174
+Time:37524851 for recursion limit 176
+Time:41017721 for recursion limit 178
+Time:46137736 for recursion limit 180
+Time:41290221 for recursion limit 182
+Time:49069873 for recursion limit 184
+Time:40814337 for recursion limit 186
+Time:49280427 for recursion limit 188
+Time:52251495 for recursion limit 190
+Time:47401776 for recursion limit 192
+Time:40593849 for recursion limit 194
+Time:46115754 for recursion limit 196
+Time:52196039 for recursion limit 198
+Time:44427193 for recursion limit 200
+Time:43836948 for recursion limit 202
+Time:36668085 for recursion limit 204
+Time:39807828 for recursion limit 206
+Time:39777644 for recursion limit 208
+Time:44012239 for recursion limit 210
+Time:42837172 for recursion limit 212
+Time:40293362 for recursion limit 214
+Time:38790493 for recursion limit 216
+Time:38716772 for recursion limit 218
+Time:42511181 for recursion limit 220
+Time:43121236 for recursion limit 222
+Time:40405385 for recursion limit 224
+Time:36967796 for recursion limit 226
+Time:37716985 for recursion limit 228
+Time:45105637 for recursion limit 230
+Time:48623816 for recursion limit 232
+Time:41027750 for recursion limit 234
+Time:35939754 for recursion limit 236
+Time:36066977 for recursion limit 238
+Time:37799899 for recursion limit 240
+Time:41761671 for recursion limit 242
+Time:46546501 for recursion limit 244
+Time:41645041 for recursion limit 246
+Time:35904537 for recursion limit 248
+Time:37241943 for recursion limit 250
+Time:37379481 for recursion limit 252
+Time:54861920 for recursion limit 254
+Time:57885172 for recursion limit 256
+Time:39843308 for recursion limit 258
+Time:46031942 for recursion limit 260
+Time:43804477 for recursion limit 262
+Time:45235084 for recursion limit 264
+Time:53229039 for recursion limit 266
+Time:45577713 for recursion limit 268
+Time:37505217 for recursion limit 270
+Time:37629293 for recursion limit 272
+Time:42708309 for recursion limit 274
+Time:43429099 for recursion limit 276
+Time:47613023 for recursion limit 278
+Time:37258755 for recursion limit 280
+Time:36080539 for recursion limit 282
+Time:38956166 for recursion limit 284
+Time:44704579 for recursion limit 286
+Time:45288728 for recursion limit 288
+Time:37685383 for recursion limit 290
+Time:37210169 for recursion limit 292
+Time:36121737 for recursion limit 294
+Time:47604279 for recursion limit 296
+Time:51629269 for recursion limit 298
+Time:39120288 for recursion limit 300
+
+Process finished with exit code 0
